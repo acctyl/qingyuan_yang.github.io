@@ -2,7 +2,7 @@
 title: "Inflation Exposure Expectations and Households’ Portfolio Choices"
 collection: publications
 category: working_paper
-permalink: /publication/inflationexposure
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Job Market Paper'
 abstract: This paper provides empirical evidence on how households’ expectations about their exposure to inflation affect their portfolio decisions, using the DNB Household Survey. Exploiting the quasi-natural experiment of the 2012 VAT increase, I find that heightened expectations about inflation exposure, driven by expected non-indexation of employment pensions, results in an increase in risky asset allocation, particularly in listed shares and equity mutual funds, for higher expected returns rather than inflation hedging. Moreover, the key mechanism at play operates through the information channel. Pension providers are mandated to regularly send Uniform Pension Overview (UPO) letters in a standardized format, elucidating pension benefits and relevant policy changes, such as indexation. My findings suggest evidence of rational inattention, as households respond more significantly to UPO letters that are timely, relevant, and frequent. However, this behavior can be inefficient, as the portfolios of rationally inattentive households tend to deviate further from the mean-variance efficient frontier.
 ---
