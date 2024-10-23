@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Inflation Exposure Expectations and Households’ Portfolio Choices"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: working_paper
+permalink: /publication/inflationexposure
+excerpt: 'Job Market Paper'
+abstract: This paper provides empirical evidence on how households’ expectations about their exposure to inflation affect their portfolio decisions, using the DNB Household Survey. Exploiting the quasi-natural experiment of the 2012 VAT increase, I find that heightened expectations about inflation exposure, driven by expected non-indexation of employment pensions, results in an increase in risky asset allocation, particularly in listed shares and equity mutual funds, for higher expected returns rather than inflation hedging. Moreover, the key mechanism at play operates through the information channel. Pension providers are mandated to regularly send Uniform Pension Overview (UPO) letters in a standardized format, elucidating pension benefits and relevant policy changes, such as indexation. My findings suggest evidence of rational inattention, as households respond more significantly to UPO letters that are timely, relevant, and frequent. However, this behavior can be inefficient, as the portfolios of rationally inattentive households tend to deviate further from the mean-variance efficient frontier.
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper provides empirical evidence on how households’ expectations about their exposure to inflation affect their portfolio decisions, using the DNB Household Survey. Exploiting the quasi-natural experiment of the 2012 VAT increase, I find that heightened expectations about inflation exposure, driven by expected non-indexation of employment pensions, results in an increase in risky asset allocation, particularly in listed shares and equity mutual funds, for higher expected returns rather than inflation hedging. Moreover, the key mechanism at play operates through the information channel. Pension providers are mandated to regularly send Uniform Pension Overview (UPO) letters in a standardized format, elucidating pension benefits and relevant policy changes, such as indexation. My findings suggest evidence of rational inattention, as households respond more significantly to UPO letters that are timely, relevant, and frequent. However, this behavior can be inefficient, as the portfolios of rationally inattentive households tend to deviate further from the mean-variance efficient frontier.
